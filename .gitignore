@@ -1,0 +1,29 @@
+# 抖音相关（不上传）
+danmaku_douyin.py
+cdp_capture.py
+douyin_cookies.json
+douyin_cookies.txt
+get_cookies.bat
+get_cookies.ps1
+
+# 虚拟环境
+venv/
+__pycache__/
+*.pyc
+
+# 模型文件（太大）
+pretrained_models/
+CosyVoice/
+
+# 音频数据
+data/*.wav
+data/segments/
+data/tmp*.*
+tmp.db
+
+# Ollama
+ollama/
+
+# 系统
+.DS_Store
+Thumbs.db
